@@ -2,8 +2,8 @@
     "name": "Lab8_Starter",
     "short_name": "Trisha",
     "description": "",
-    "start_url": "https://trishangvyen.github.io/Lab8_Starter/",
-    "display": "browser",
+    "start_url": "/",
+    "display": "standalone",
     "background_color": "black",
     "theme_color": "pink",
     "icons": [
@@ -30,32 +30,32 @@
       {
         "src": "/assets/images/icons/0-star.svg",
         "sizes": "300x53",
-        "type": "image/svg"
+        "type": "image/svg+xml"
       },
       {
         "src": "/assets/images/icons/1-star.svg",
         "sizes": "300x53",
-        "type": "image/svg"
+        "type": "image/svg+xml"
       },
       {
         "src": "/assets/images/icons/2-star.svg",
         "sizes": "300x53",
-        "type": "image/svg"
+        "type": "image/svg+xml"
       },
       {
         "src": "/assets/images/icons/3-star.svg",
         "sizes": "300x53",
-        "type": "image/svg"
+        "type": "image/svg+xml"
       },
       {
         "src": "/assets/images/icons/4-star.svg",
         "sizes": "300x53",
-        "type": "image/svg"
+        "type": "image/svg+xml"
       },
       {
         "src": "/assets/images/icons/5-star.svg",
         "sizes": "300x53",
-        "type": "image/svg"
+        "type": "image/svg+xml"
       },
       {
         "src": "/assets/images/icons/arrow-down.png",
