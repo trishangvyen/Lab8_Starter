@@ -3,7 +3,7 @@
     "short_name": "Trisha",
     "description": "",
     "start_url": "https://trishangvyen.github.io/Lab8_Starter/",
-    "display": "standalone",
+    "display": "browser",
     "background_color": "black",
     "theme_color": "pink",
     "icons": [
@@ -59,7 +59,7 @@
       },
       {
         "src": "/assets/images/icons/arrow-down.png",
-        "sizes": "512x5123",
+        "sizes": "512x512",
         "type": "image/png"
       }
     ]
